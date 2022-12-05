@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972166341828",
+    "project_id": "forup-fb654",
+    "storage_bucket": "forup-fb654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972166341828:android:63b0899dc98215cb8e1591",
+        "android_client_info": {
+          "package_name": "ru.kovalev_andrey.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972166341828-adu4f5v3u0t0e33nas8q2n3qeun29p6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVoYv8p0wAZYaj0P0haVYwPAmG6LJr14o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972166341828-adu4f5v3u0t0e33nas8q2n3qeun29p6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
